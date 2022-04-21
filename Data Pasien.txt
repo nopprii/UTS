@@ -1,0 +1,10 @@
+
+ 
+		Data Pasien Covid19
+		Wilayah : Dki Jakarta
+		Jumlah Positif : 1.245.653
+		Jumlah Dirawat : 411
+		Jumlah Sembuh : 1.227.793
+		Jumlah Meninggal : 15.244
+		Nama Operator : M.Novri Pratama
+		NIM : 191011402094
